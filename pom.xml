@@ -11,6 +11,14 @@
         <spring.version>1.2.9</spring.version>
     </properties>
 
+    <licenses>
+        <license>
+            <name>The MIT license</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    
     <dependencies>
 <!--        <dependency>-->
 <!--            <groupId>org.jenkins-ci.main</groupId>-->
